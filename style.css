@@ -1,0 +1,50 @@
+body {
+    background-color: rgba(255, 218, 185, 0.753);
+}
+
+#coteret{
+    text-align: center;
+    color: rgba(175, 33, 61, 0.842);
+    font: bold;
+    font-size: 30px;
+}
+
+#top3{
+    text-align: center;
+    color: rgb(129, 14, 14);
+    font: bold;
+}
+
+#eyes{
+    text-align: center;
+    font: bold;
+}
+
+h2{
+    text-align: center;
+    font: bold; 
+    font-size: 18px;
+    color: rgba(95, 45, 9, 0.781);
+}
+
+h3 {
+    font: bold;
+}
+
+#makeupguides{
+    color: rgb(156, 30, 30);
+    font-size: 18px;
+}
+
+ul{
+    list-style-type:square;
+}
+
+table{
+    width: 500px;
+}
+
+table, tr, td{
+    border: 1px solid black ;
+    border-collapse: collapse;
+}
